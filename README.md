@@ -1,7 +1,9 @@
 # Disney Clone
 
-![Disney Clone](![image](https://github.com/itsdevsyed/disney-plus-clone-nextjs/assets/165158831/00fbe8ab-f246-4e02-ae99-c5a6f1e8ba1e)
-)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/800px-Disney%2B_logo.svg.png?20240603202835" alt="Disney Clone" width="600">
+</p>
+
 
 A feature-rich Disney+ clone built with Next.js and other modern web technologies.
 
